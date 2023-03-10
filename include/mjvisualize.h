@@ -15,8 +15,8 @@
 #ifndef MUJOCO_MJVISUALIZE_H_
 #define MUJOCO_MJVISUALIZE_H_
 
-#include <mujoco/mjtnum.h>
-#include <mujoco/mjmodel.h>
+#include <mjtnum.h>
+#include <mjmodel.h>
 
 #define mjNGROUP        6         // number of geom, site, joint, skin groups with visflags
 #define mjMAXLIGHT      100       // maximum number of lights in a scene

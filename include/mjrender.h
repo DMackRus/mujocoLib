@@ -15,7 +15,7 @@
 #ifndef MUJOCO_MJRENDER_H_
 #define MUJOCO_MJRENDER_H_
 
-#include <mujoco/mjmodel.h>
+#include <mjmodel.h>
 
 #if defined(__cplusplus)
 extern "C" {

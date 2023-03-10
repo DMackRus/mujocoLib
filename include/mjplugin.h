@@ -15,9 +15,9 @@
 #ifndef MUJOCO_INCLUDE_MJPLUGIN_H_
 #define MUJOCO_INCLUDE_MJPLUGIN_H_
 
-#include <mujoco/mjdata.h>
-#include <mujoco/mjmodel.h>
-#include <mujoco/mjvisualize.h>
+#include <mjdata.h>
+#include <mjmodel.h>
+#include <mjvisualize.h>
 
 
 typedef enum mjtPluginCapabilityBit_ {

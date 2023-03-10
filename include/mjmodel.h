@@ -15,7 +15,7 @@
 #ifndef MUJOCO_MJMODEL_H_
 #define MUJOCO_MJMODEL_H_
 
-#include <mujoco/mjtnum.h>
+#include <mjtnum.h>
 
 // global constants
 #define mjPI            3.14159265358979323846

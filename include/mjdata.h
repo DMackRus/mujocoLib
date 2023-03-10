@@ -18,8 +18,8 @@
 #include <stddef.h>
 #include <stdint.h>
 
-#include <mujoco/mjtnum.h>
-#include <mujoco/mjmodel.h>
+#include <mjtnum.h>
+#include <mjmodel.h>
 
 //---------------------------------- primitive types (mjt) -----------------------------------------
 

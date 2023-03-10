@@ -15,7 +15,7 @@
 #ifndef MUJOCO_MUJOCO_H_
 #define MUJOCO_MUJOCO_H_
 
-#include <mujoco/mjexport.h>
+#include <mjexport.h>
 
 
 // this is a C-API
@@ -32,13 +32,13 @@ extern "C" {
 
 
 // type definitions
-#include <mujoco/mjdata.h>
-#include <mujoco/mjmodel.h>
-#include <mujoco/mjplugin.h>
-#include <mujoco/mjrender.h>
-#include <mujoco/mjtnum.h>
-#include <mujoco/mjui.h>
-#include <mujoco/mjvisualize.h>
+#include <mjdata.h>
+#include <mjmodel.h>
+#include <mjplugin.h>
+#include <mjrender.h>
+#include <mjtnum.h>
+#include <mjui.h>
+#include <mjvisualize.h>
 
 
 // macros
